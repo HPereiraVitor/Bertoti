@@ -103,9 +103,7 @@ Após um mês (01 de agosto) será rodado e calculado uma cobrança (Billing) de
 
 No caso de serviços advanced, num cenário igual ao anterior, de um contrato criado dia 01 de julho com um serviço advanced de 10 reais, quando o billing for rodado e calculado no dia 01 de agosto haverá detalhado na fatura a past charge do mês de julho assim como no cenário anterior, porém, neste teste irá conter já uma charge do dia 01 até dia 31 de agosto constando os 10 reais do serviço de telefonia que na próxima rodada de billing pode ser corrigido ou não por alguma condição terceira.
 
-![Diagrama, Gráfico de caixa estreita
-
-Descrição gerada automaticamente](Aspose.Words.f62de7f5-6dcd-440c-ad38-d389f2d11632.003.jpeg)
+![](Aspose.Words.f62de7f5-6dcd-440c-ad38-d389f2d11632.003.jpeg)
 
 1. ### **Non-Prorated e Prorated**
 Prorating é o ato de calcular e aplicar cobranças recorrentes em proporção ao tempo em que um serviço está ativo ou ao tempo em que a cobrança foi válida durante um período de cobrança. Quando um intervalo de cobrança individual para cobranças recorrentes é definido para um serviço, o prorating é baseado em quanto tempo o serviço está ativo durante esse intervalo em vez de um período de cobrança. Os princípios para prorating, no entanto, são basicamente os mesmos, quer as cobranças sejam baseadas em um período de cobrança ou em um intervalo de cobrança individual.
@@ -175,9 +173,7 @@ O módulo de cobrança carrega as informações do cliente, do serviço e se exi
 
 **Figura 1 - Fluxo dos dados de Overwrite**
 
-![Diagrama
-
-Descrição gerada automaticamente](Aspose.Words.f62de7f5-6dcd-440c-ad38-d389f2d11632.005.jpeg)
+![](Aspose.Words.f62de7f5-6dcd-440c-ad38-d389f2d11632.005.jpeg)
 1. ## **Detalhes**
 Para o serviço Past o código foi alterado para ao criar intervalos de atributo para períodos de substituição, serão criados dois ao invés de um. O primeiro começando na data de início (Comportamento padrão) e um segundo começando na data final do período de substituição.
 
