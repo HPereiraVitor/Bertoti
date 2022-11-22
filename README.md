@@ -40,32 +40,6 @@ Orientador: Diogo Branquinho Ramos
 São José dos Campos
 
 2022
-# **Sumário**
-
-[1	Introdução	3](#_Toc120024626)
-
-[1.1	Definição do problema	3](#_Toc120024627)
-
-[1.1.1	Past Charge e Advanced Charge	4](#_Toc120024628)
-
-[1.1.2	Non-Prorated e Prorated	5](#_Toc120024629)
-
-[1.2	Objetivo	6](#_Toc120024630)
-
-[1.2.1	Exemplo	6](#_Toc120024631)
-
-[2	Desenvolvimento	8](#_Toc120024632)
-
-[2.1	Arquitetura	8](#_Toc120024633)
-
-[2.2	Modelo de Dados	9](#_Toc120024634)
-
-[2.3	Detalhes	9](#_Toc120024635)
-
-[3	Resultados e Discussão	10](#_Toc120024636)
-
-[4	Terminologia	11](#_Toc120024637)
-
 
 
 
