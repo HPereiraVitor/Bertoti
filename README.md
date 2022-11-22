@@ -91,9 +91,7 @@ E dois tipos de aplicação para essas charges:
 
 Onde uma past charge pode ser prorrateado ou não prorrateado, assim como, um advanced charge pode ser prorrateado ou não prorrateado.
 
-![Uma imagem contendo Tabela
-
-Descrição gerada automaticamente](Aspose.Words.f62de7f5-6dcd-440c-ad38-d389f2d11632.001.png)
+![](Aspose.Words.f62de7f5-6dcd-440c-ad38-d389f2d11632.001.png)
 
 
 1. ### **Past Charge e Advanced Charge**
